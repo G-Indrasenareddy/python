@@ -1,0 +1,13 @@
+random.choice ;-
+    return 1 random element from given sequence
+
+random.choices:-
+    return list of n random elements from sequence
+
+
+File handling:-
+
+ETL:-
+Extract data from "Rest Api's","Data bases","cloud",files
+Transform
+Load:- the data csv files,Json files
