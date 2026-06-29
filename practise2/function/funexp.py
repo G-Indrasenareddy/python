@@ -23,8 +23,8 @@
 
 #build in functions
 import math
-square_root = math.sqrt(144)
-print("Square root: ",square_root)
-power = pow(7,3)
-print("power: ",power)
+squ_root = math.sqrt(10)
+print("sqrt: ",squ_root)
+power = pow(2,3)
+print("power",power)
 
